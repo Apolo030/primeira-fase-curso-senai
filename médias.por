@@ -14,7 +14,7 @@ programa
 		se(media >= 7){
 			escreva("Você foi aprovado")
 			}
-		senao se(media > 3){
+		senao se(media >= 3){
 			escreva("Você está em recuperação")
 			}
 		senao{
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 400; 
+ * @POSICAO-CURSOR = 359; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
